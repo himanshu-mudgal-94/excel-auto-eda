@@ -1,4 +1,6 @@
 # 📊 Excel Auto EDA & Sales Forecasting App
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Streamlit-blue?style=for-the-badge)](https://excel-auto-eda-vtthe4f7deo8kk6ezyabis.streamlit.app/)
+
 
 A simple end-to-end ML project that performs automatic **Exploratory Data Analysis (EDA)** on any uploaded Excel file and optionally predicts **future sales trends** using Linear Regression.
 
@@ -42,3 +44,4 @@ excel-auto-eda/
 ├── requirements.txt
 └── README.md
 
+[GitHub Profile](https://github.com/himanshu-mudgal-94)
